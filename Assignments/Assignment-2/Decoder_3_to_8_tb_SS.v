@@ -2,7 +2,7 @@
 This file contains testbench code for
 3 to 8 Decoder
 
-Author: Sahil & Shravan
+Author: Shravan & Sahil
 Date: 08-02-2024
 */
 
