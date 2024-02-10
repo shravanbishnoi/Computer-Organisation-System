@@ -2,7 +2,7 @@
 This file contains Demultiplexer for 
 1 to 4 bit
 
-Author: Sahil & Shravan
+Author: Shravan & Sahil
 Date: 08-02-2024
 */
 
