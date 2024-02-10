@@ -2,7 +2,7 @@
 This file contains testbench code for
 1 to 4 Demultiplexer
 
-Author: Sahil & Shravan
+Author: Shravan & Sahil
 Date: 08-02-2024
 */
 
