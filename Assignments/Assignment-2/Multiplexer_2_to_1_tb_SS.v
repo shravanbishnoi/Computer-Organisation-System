@@ -2,7 +2,7 @@
 This file contains testbench code for
 2 to 1 multiplexer
 
-Author: Sahil & Shravan
+Author: Shravan & Sahil
 Date: 08-02-2024
 */
 
