@@ -2,7 +2,7 @@
 This file contains Multiplexer for 
 2 to 1 bit
 
-Author: Sahil & Shravan
+Author: Shravan & Sahil
 Date: 08-02-2024
 */
 
