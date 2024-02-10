@@ -2,7 +2,7 @@
 This file contains testbench code for 8 to 3 bit
 Encoder
 
-Author: Sahil & Shravan
+Author: Shravan & Sahil
 Date: 08-02-2024
 */
 
