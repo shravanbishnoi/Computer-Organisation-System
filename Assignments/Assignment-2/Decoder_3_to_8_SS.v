@@ -2,7 +2,7 @@
 This file contains Decoder for 
 3 to 8 bit
 
-Author: Sahil & Shravan
+Author:Shravan & Sahil
 Date: 08-02-2024
 */
 
