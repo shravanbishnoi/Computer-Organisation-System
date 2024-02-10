@@ -1,7 +1,7 @@
 /*
 This file contains Encoder for 8 to 3 bit
 
-Author: Sahil & Shravan
+Author: Shravan & Sahil
 Date: 08-02-2024
 */
 
