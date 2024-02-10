@@ -9,6 +9,7 @@ This repository is organized to showcase my work throughout the course, and it w
           
 ## Assignments:
   - Implemeting gates using NAND & NOR gates
+  - Verilog implementation for Comparator, Encoder, Decoder, Multiplexer, Demultiplexer
 
 
 ## About the Course
